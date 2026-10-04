@@ -11,3 +11,6 @@ Eingaben bleiben lokal im Browser. JSON-Export und -Import sichern alle Eingaben
 
 ## Technik
 Statisches HTML, CSS und JavaScript ohne Backend oder API. Die Seite überträgt keine Schülertexte und ruft keine KI auf. GitHub Pages veröffentlicht den Stammordner des Branches `main`. Alle Website-Dateien liegen im Repository-Stamm.
+
+## Sofortfeedback
+Jeder Schritt bietet lokales Feedback, das sich während der Eingabe aktualisiert. Zusätzliche Hinweise begleiten Erkenntnisse, Planung, Originalpassage, jede Überarbeitung und den Werkkommentar. Geprüft werden unter anderem Umfang, erkennbare Fundstellenformate, identische Fassungen und formale Sprachmerkmale. Vorschläge sind Arbeitshilfen, keine automatische Bewertung von Belegen oder literarischer Qualität. Keine Daten werden dafür übertragen.
